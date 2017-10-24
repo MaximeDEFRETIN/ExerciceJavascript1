@@ -1,2 +1,2 @@
-var t = "Couillère ! Couillère ! COUILLÈRE ! AVÉ CÉSARE !";
+var t = "Couillère ! Couillère ! COUILLÈÈÈÈÈÈÈÈRE ! AVÉÉ CÉSARE !";
 alert(t);
